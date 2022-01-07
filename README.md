@@ -2,7 +2,7 @@
 An Android app which have some basic questions
 
 ## Start page
-<img src="https://user-images.githubusercontent.com/54950082/148575077-503142ea-5854-4a45-8382-121e15a32ad5.jpg" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/54950082/148575077-503142ea-5854-4a45-8382-121e15a32ad5.jpg" width="50" height="50">
 
 ## Questions page
 ![Screenshot_2022-01-07-21-58-52-567_com example quizapp](https://user-images.githubusercontent.com/54950082/148575139-0c41444e-0689-471e-b073-b118cd90335c.jpg)
